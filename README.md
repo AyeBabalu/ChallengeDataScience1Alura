@@ -1,4 +1,4 @@
-Desafío Alura Store
+###Desafío Alura Store
 
 Este proyecto contiene el análisis de datos de cuatro tiendas, realizado como parte del Desafío Alura Store. El objetivo es evaluar aspectos clave de cada tienda para recomendar cuál es la más adecuada para vender, basándose en:
 - Facturación total
